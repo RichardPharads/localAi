@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+
+.think-text {
+    color: rgb(98, 253, 9);
+    font-style: italic;
+    opacity: 0.8;
+}
+  
+  
